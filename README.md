@@ -16,7 +16,7 @@ To compile from source, make sure you have Python 3.12.4 or greater, and Nuitka,
 ## Authors & Contributors
 
 - [Raven Archive Team](https://ravendevteam.org/)
-- [Raven Development Team](https://ravendevteam.org/) ([Talon](https://github.com/ravendevteam/talon))
+- [Raven Development Team](https://ravendevteam.org/)
 - [Icons by Icons8](https://icons8.com/)
 - [mre31](https://github.com/mre31) (Developer, Early Tester, Bugfixer)
 - [ChrisTitusTech](https://github.com/christitustech) ([CTT WinUtil](https://github.com/christitustech/winutil))
